@@ -1,0 +1,7 @@
+interface:
+  display_name: "三十六計執行策略"
+  short_description: "用三十六計診斷局勢並擬定合法、可逆、可執行的策略方案"
+  default_prompt: "使用 $thirty-six-stratagems-strategy 分析目前局勢，提出具體執行方案、風險防線與退場條件。"
+
+policy:
+  allow_implicit_invocation: true
